@@ -81,8 +81,8 @@
       <section class="bgSection">
          <div class="containerFull">
             <h3 class="heading text-center fontHeading text_primary mt-3">Featured Services</h3>
-            <div class="row mt-lg-5 row-cols-6 row-cols-lg-5">
-               <div class="col">
+            <div class="serviceSlider mt-4">
+               <div class="serviceItem">
                   <div class="overcomeItem">
                      <div class="iconOvercome">
                         <picture>
@@ -91,9 +91,12 @@
                         </picture>
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-3">Individual Therapy</h4>
+                     <!-- <p>Take the deep dive into exploring yourself and learn to navigate life stressors and challenges like ADHD, trauma, Autism, Depression, Anxiety etc. Build healthy coping skills and learn to regulate your emotions to empower yourself to grow as an individual.</p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+
                   </div>
                </div>
-               <div class="col">
+               <div class="serviceItem">
                   <div class="overcomeItem">
                      <div class="iconOvercome">
                         <picture>
@@ -101,10 +104,12 @@
                            <img src="images/icons/couple-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Couples Therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4">Couples Counselling</h4>
+                     <!-- <p>Reignite the spark and build conflict resolution skills to steer your relationship towards a better tomorrow. Give your relationship another chance and through the therapeutic process, work on it to make it work. </p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
                   </div>
                </div>
-               <div class="col">
+               <div class="serviceItem">
                   <div class="overcomeItem">
                      <div class="iconOvercome">
                         <picture>
@@ -112,10 +117,12 @@
                            <img src="images/icons/group-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Group Therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4">Adolescent or teenage therapy</h4>
+                     <!-- <p>Neither quite an adult, nor quite a kid.  Adolescents or teens and tweens come with a number of adjustment issues including but not limited to navigating puberty, sexuality, adapting to the changes in life, behavioural issues, social anxiety and career choices. Put in the effort to enhance your life ahead.</p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
                   </div>
                </div>
-               <div class="col">
+               <div class="serviceItem">
                   <div class="overcomeItem">
                      <div class="iconOvercome">
                         <picture>
@@ -124,9 +131,11 @@
                         </picture>
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4">Online Therapy</h4>
+                     <!-- <p>: If travelling to the clinic is a challenge for you due to geographical or time restraints, this option is for you. Remote therapy sessions from the comfort of your safe space-work on yourself anywhere, anytime!</p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
                   </div>
                </div>
-               <div class="col">
+               <div class="serviceItem">
                   <div class="overcomeItem">
                      <div class="iconOvercome">
                         <picture>
@@ -135,6 +144,60 @@
                         </picture>
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4">Family Therapy</h4>
+                     <!-- <p>From a therapist that comes from the South Asian background, your unique challenges that come from being in the collectivistic culture we live in can be addressed and worked upon as a family. Cultivate a nurturing, healthy family environment so that all of you can thrive and grow in the best possible manner, together. </p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                  </div>
+               </div>
+               <div class="serviceItem">
+                  <div class="overcomeItem">
+                     <div class="iconOvercome">
+                        <picture>
+                           <source srcset="images/icons/family-therapy.webp" type="image/webp" />
+                           <img src="images/icons/family-therapy.png" />
+                        </picture>
+                     </div>
+                     <h4 class="title fontHeading text_primary text-center mt-4">Crisis intervention or mental health first aid</h4>
+                     <!-- <p>In the time of a mental health crisis-be it a panic attack, suicidal thoughts, feeling severe emotional or mental distress, hearing voices or seeing things, going through a natural disaster-our therapist, trained in mental health first aid and crisis intervention will help you navigate the emergency. </p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                  </div>
+               </div>
+               <div class="serviceItem">
+                  <div class="overcomeItem">
+                     <div class="iconOvercome">
+                        <picture>
+                           <source srcset="images/icons/family-therapy.webp" type="image/webp" />
+                           <img src="images/icons/family-therapy.png" />
+                        </picture>
+                     </div>
+                     <h4 class="title fontHeading text_primary text-center mt-4">LGBTQ++ therapy</h4>
+                     <!-- <p>Being queer comes with it’s unique set of experiences and challenges- be it coming out, abuse, bullying, being unsure of your identity, anxiety, depression, etc. No matter who you are, or what you like, I would love to support you to live your best life. </p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                  </div>
+               </div>
+               <div class="serviceItem">
+                  <div class="overcomeItem">
+                     <div class="iconOvercome">
+                        <picture>
+                           <source srcset="images/icons/family-therapy.webp" type="image/webp" />
+                           <img src="images/icons/family-therapy.png" />
+                        </picture>
+                     </div>
+                     <h4 class="title fontHeading text_primary text-center mt-4">Stress management</h4>
+                     <!-- <p>In the high paced and advanced age of technology, stress is uquibitous. When it is chronic, and severe, it can cause not just mental health but a number of other problems as well. Reach out and manage the stress before the stress gets to you. With a number of strategies and mindful living, deal with the stress in a healthy manner. </p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                  </div>
+               </div>
+               <div class="serviceItem">
+                  <div class="overcomeItem">
+                     <div class="iconOvercome">
+                        <picture>
+                           <source srcset="images/icons/family-therapy.webp" type="image/webp" />
+                           <img src="images/icons/family-therapy.png" />
+                        </picture>
+                     </div>
+                     <h4 class="title fontHeading text_primary text-center mt-4">Corporate counselling and workshops</h4>
+                     <!-- <p>Each workplace has it’s own set of challenges and when they get out of hand is when it starts affecting work and productivity of an individual. Be it personal issues or workplace issues- layoffs, or team disputes- Beyond the box with Bhakti provides corporate counselling in  both individual and group settings to ensure optimum productivity as well as wellbeing. Also, workshops like team building workshops, or motivation seminars, art expression therapy workshops can be conducted, work on self so you can work for the company! A company that cares, hires a corporate counsellor!</p> -->
+                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
                   </div>
                </div>
             </div>
@@ -228,11 +291,82 @@
             </div>
          </div>
       </section>
+
+
+
+
+
+
+      <section>
+         <div class="container">
+            <div class="testimonialContainer">
+               <h2 class="heading fontHeading text-center mb-4">Our Testimonial</h2>
+               <div class="testimonialSlider">
+                  <div class="testimonialBox">
+                     <div class="userImg">
+                        <picture>
+                           <source srcset="images/dummy.webp" type="image/webp" />
+                           <img src="images/dummy.jpg" />
+                        </picture>
+                     </div>
+                     <h3 class="sub_heading mt-1 fontWeight700 fontHeading">H.S</h3>
+                     <h5 class="text-primary">Client one</h5>
+                     <div class="usertestimonial">
+                        <i class="fa-solid fa-quote-left iconfirst"></i>
+                        <i class="fa-solid fa-quote-right iconSecond"></i>
+                        <p class="mt-4">Therapy with Bhakti has been nothing short of life-changing. It was very easy to connect with her. The process made me realise that I was holding on to what I knew was not the right path. She has shown me keeping your mind open is what brings the change you desire.</p>
+                     </div>
+                  </div>
+                  <div class="testimonialBox">
+                     <div class="userImg">
+                        <picture>
+                           <source srcset="images/dummy.webp" type="image/webp" />
+                           <img src="images/dummy.jpg" />
+                        </picture>
+                     </div>
+                     <h3 class="sub_heading mt-1 fontWeight700 fontHeading">D.K</h3>
+                     <h5 class="text-primary">Client two</h5>
+                     <div class="usertestimonial">
+                        <i class="fa-solid fa-quote-left iconfirst"></i>
+                        <i class="fa-solid fa-quote-right iconSecond"></i>
+                        <p class="mt-4">I had the pleasure of taking healing therapy from Bhakti and my experience has been transformative. Through her guidance, I learned powerful techniques like reframing negative thoughts, which has helped me see challenges from a new perspective. She also introduced me to breathing exercises that have become an essential tool for managing stress and anxiety. Bhakti created a safe, supportive environment where I felt heard and understood. Her expertise and compassionate approach have made a significant positive impact on my life. Thank you so much!</p>
+                     </div>
+                  </div>
+                  <div class="testimonialBox">
+                     <div class="userImg">
+                        <picture>
+                           <source srcset="images/dummy.webp" type="image/webp" />
+                           <img src="images/dummy.jpg" />
+                        </picture>
+                     </div>
+                     <h3 class="sub_heading mt-1 fontWeight700 fontHeading">R.H</h3>
+                     <h5 class="text-primary">Supervisor</h5>
+                     <div class="usertestimonial">
+                        <i class="fa-solid fa-quote-left iconfirst"></i>
+                        <i class="fa-solid fa-quote-right iconSecond"></i>
+                        <p class="mt-4">Bhakti is a skilled Psychologist who demonstrates passion and dedication to both personal and professional growth. Her ability to quickly grasp and conceptualize ideas, coupled with her persistent pursuit of mastery are her key strengths. </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
       <section class="bgAction">
          <div class="containerFull">
-            <div class="row">
+            <div class="row align-items-center">
                <div class="col-lg-9">
-                  <h4 class="sub_heading text_primary fontHeading">Let’s open your heart story to us, We’ll listen to you</h4>
+                  <h4 class="sub_heading text_primary fontHeading">Ready to make a change? </h4>
+                  <h4 class="title text_primary fontHeading mt-3">Book your first session today and take the first step towards a more fulfilling life. Because your well being, is worth it. </h4>
                </div>
                <div class="col-lg-3">
                   <a href="#" class="btnTheme w-100 text-center">Book your Slot Now</a>
@@ -260,7 +394,7 @@
                                  <i class="fa fa-user"></i>
                               </div>
                               <p>by webdesk</p>
-                              <h4 class="small_heading fontHeading mt-3">5 Essential Tips for Managing Over whelming Situations </h4>
+                              <h4 class="small_heading fontHeading mt-3">What is therapy?</h4>
                            </div>
                         </div>
                         <div class="bottomBtn">
@@ -285,7 +419,7 @@
                                  <i class="fa fa-user"></i>
                               </div>
                               <p>by webdesk</p>
-                              <h4 class="small_heading fontHeading mt-3">5 Essential Tips for Managing Over whelming Situations </h4>
+                              <h4 class="small_heading fontHeading mt-3">Mental health and physical health</h4>
                            </div>
                         </div>
                         <div class="bottomBtn">
@@ -310,7 +444,7 @@
                                  <i class="fa fa-user"></i>
                               </div>
                               <p>by webdesk</p>
-                              <h4 class="small_heading fontHeading mt-3">5 Essential Tips for Managing Over whelming Situations </h4>
+                              <h4 class="small_heading fontHeading mt-3">How to know if the therapist is a right fit</h4>
                            </div>
                         </div>
                         <div class="bottomBtn">
@@ -335,7 +469,7 @@
                                  <i class="fa fa-user"></i>
                               </div>
                               <p>by webdesk</p>
-                              <h4 class="small_heading fontHeading mt-3">5 Essential Tips for Managing Over whelming Situations </h4>
+                              <h4 class="small_heading fontHeading mt-3">Mental health and physical health</h4>
                            </div>
                         </div>
                         <div class="bottomBtn">
