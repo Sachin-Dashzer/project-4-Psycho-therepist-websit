@@ -25,7 +25,7 @@
 						<li class="active"><a href="#">Home</a></li>
 						<li><a href="about.php">About Us</a></li>
 						<li><a href="services.php">Services</a></li>
-						<li><a href="#">Specialities</a></li>
+						<li><a href="specialities.php">Specialities</a></li>
 						<li><a href="#">Resources</a></li>
 						<li><a href="#">Contact Us</a></li>
 					</ul>

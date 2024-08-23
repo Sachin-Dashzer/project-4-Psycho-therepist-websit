@@ -344,9 +344,6 @@ $(".serviceSlider").slick({
   ],
 });
 
-
-
-
 $(function () {
   $(".faqHeader").click(function () {
     $(this).parents(".itemFaq").siblings(".itemFaq").removeClass("active");

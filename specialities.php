@@ -32,9 +32,9 @@
 
         <section>
          <div class="containerFull">
-            <h3 class="heading text-center fontHeading text-white mt-3">Our Specialities</h3>
+            <h3 class="sub_heading text-center fontHeading">Our Specialities</h3>
             <div class="row mt-lg-5 justify-content-center">
-               <div class="col-lg-3">
+               <div class="col-lg-4 px-4">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -47,7 +47,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
+               <div class="col-lg-4 px-4">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -60,7 +60,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
+               <div class="col-lg-4 px-4">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -73,7 +73,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
+               <div class="col-lg-4 px-4">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -87,7 +87,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
+               <div class="col-lg-4 px-4">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -101,7 +101,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3">
+               <div class="col-lg-4 px-4">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
