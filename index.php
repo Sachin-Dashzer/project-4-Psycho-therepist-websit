@@ -80,7 +80,15 @@
       </section>
       <section class="bgSection">
          <div class="containerFull">
+
+            <div class="row col-lg-10 offset-lg-1">
+
+
             <h3 class="heading text-center fontHeading text_primary mt-3">Featured Services</h3>
+            <h5 class="text new_subHeading mt-3 text-center">Together we Thrive: Featured services at BTBWB </br>
+               Here at Beyond the Box with Bhakti, we offer a comprehensive range of evidence-based therapeutic services that help you, help yourself. Explore the various kinds of support we provide:
+            </h5>               
+            </div>
             <div class="serviceSlider mt-4">
                <div class="serviceItem">
                   <div class="overcomeItem">
@@ -90,9 +98,9 @@
                            <img src="images/icons/therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-3">Individual Therapy</h4>
-                     <!-- <p>Take the deep dive into exploring yourself and learn to navigate life stressors and challenges like ADHD, trauma, Autism, Depression, Anxiety etc. Build healthy coping skills and learn to regulate your emotions to empower yourself to grow as an individual.</p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Individual Therapy</h4>
+                     <p>Take the deep dive into exploring yourself and learn to navigate life stressors and challenges like ADHD, trauma, Autism, Depression, Anxiety etc. Build healthy coping skills and learn to regulate your emotions to empower yourself to grow as an individual.</p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
 
                   </div>
                </div>
@@ -104,9 +112,9 @@
                            <img src="images/icons/couple-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Couples Counselling</h4>
-                     <!-- <p>Reignite the spark and build conflict resolution skills to steer your relationship towards a better tomorrow. Give your relationship another chance and through the therapeutic process, work on it to make it work. </p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Couples Counselling</h4>
+                     <p>Reignite the spark and build conflict resolution skills to steer your relationship towards a better tomorrow. Give your relationship another chance and through the therapeutic process, work on it to make it work. </p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -117,9 +125,9 @@
                            <img src="images/icons/group-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Adolescent or teenage therapy</h4>
-                     <!-- <p>Neither quite an adult, nor quite a kid.  Adolescents or teens and tweens come with a number of adjustment issues including but not limited to navigating puberty, sexuality, adapting to the changes in life, behavioural issues, social anxiety and career choices. Put in the effort to enhance your life ahead.</p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Adolescent or teenage therapy</h4>
+                     <p>Neither quite an adult, nor quite a kid. Adolescents or teens and tweens come with a number of adjustment issues including but not limited to navigating puberty, sexuality, adapting to the changes in life, behavioural issues, social anxiety and career choices. Put in the effort to enhance your life ahead.</p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -130,9 +138,9 @@
                            <img src="images/icons/online-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Online Therapy</h4>
-                     <!-- <p>: If travelling to the clinic is a challenge for you due to geographical or time restraints, this option is for you. Remote therapy sessions from the comfort of your safe space-work on yourself anywhere, anytime!</p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Online Therapy</h4>
+                     <p>If travelling to the clinic is a challenge for you due to geographical or time restraints, this option is for you. Remote therapy sessions from the comfort of your safe space-work on yourself anywhere, anytime!</p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -143,9 +151,9 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Family Therapy</h4>
-                     <!-- <p>From a therapist that comes from the South Asian background, your unique challenges that come from being in the collectivistic culture we live in can be addressed and worked upon as a family. Cultivate a nurturing, healthy family environment so that all of you can thrive and grow in the best possible manner, together. </p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Family Therapy</h4>
+                     <p>From a therapist that comes from the South Asian background, your unique challenges that come from being in the collectivistic culture we live in can be addressed and worked upon as a family. Cultivate a nurturing, healthy family environment so that all of you can thrive and grow in the best possible manner, together. </p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -156,9 +164,9 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Crisis intervention or mental health first aid</h4>
-                     <!-- <p>In the time of a mental health crisis-be it a panic attack, suicidal thoughts, feeling severe emotional or mental distress, hearing voices or seeing things, going through a natural disaster-our therapist, trained in mental health first aid and crisis intervention will help you navigate the emergency. </p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Crisis intervention or mental health first aid</h4>
+                     <p>In the time of a mental health crisis-be it a panic attack, suicidal thoughts, feeling severe emotional or mental distress, hearing voices or seeing things, going through a natural disaster-our therapist, trained in mental health first aid and crisis intervention will help you navigate the emergency. </p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -169,9 +177,9 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">LGBTQ++ therapy</h4>
-                     <!-- <p>Being queer comes with it’s unique set of experiences and challenges- be it coming out, abuse, bullying, being unsure of your identity, anxiety, depression, etc. No matter who you are, or what you like, I would love to support you to live your best life. </p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">LGBTQ++ therapy</h4>
+                     <p>Being queer comes with it’s unique set of experiences and challenges- be it coming out, abuse, bullying, being unsure of your identity, anxiety, depression, etc. No matter who you are, or what you like, I would love to support you to live your best life. </p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -182,9 +190,9 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Stress management</h4>
-                     <!-- <p>In the high paced and advanced age of technology, stress is uquibitous. When it is chronic, and severe, it can cause not just mental health but a number of other problems as well. Reach out and manage the stress before the stress gets to you. With a number of strategies and mindful living, deal with the stress in a healthy manner. </p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Stress management</h4>
+                     <p>In the high paced and advanced age of technology, stress is uquibitous. When it is chronic, and severe, it can cause not just mental health but a number of other problems as well. Reach out and manage the stress before the stress gets to you. With a number of strategies and mindful living, deal with the stress in a healthy manner. </p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -195,9 +203,9 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4">Corporate counselling and workshops</h4>
-                     <!-- <p>Each workplace has it’s own set of challenges and when they get out of hand is when it starts affecting work and productivity of an individual. Be it personal issues or workplace issues- layoffs, or team disputes- Beyond the box with Bhakti provides corporate counselling in  both individual and group settings to ensure optimum productivity as well as wellbeing. Also, workshops like team building workshops, or motivation seminars, art expression therapy workshops can be conducted, work on self so you can work for the company! A company that cares, hires a corporate counsellor!</p> -->
-                     <a href="#" class="text-center mt-3 btnTheme">Read More</a>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Corporate counselling and workshops</h4>
+                     <p>Each workplace has it’s own set of challenges and when they get out of hand is when it starts affecting work and productivity of an individual. Be it personal issues or workplace issues- layoffs, or team disputes- Beyond the box with Bhakti provides corporate counselling in both individual and group settings to ensure optimum productivity as well as wellbeing. Also, workshops like team building workshops, or motivation seminars, art expression therapy workshops can be conducted, work on self so you can work for the company! A company that cares, hires a corporate counsellor!</p>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                   </div>
                </div>
             </div>
@@ -394,7 +402,7 @@
                                  <i class="fa fa-user"></i>
                               </div>
                               <p>by webdesk</p>
-                              <h4 class="small_heading fontHeading mt-3">What is therapy?</h4>
+                              <h4 class="small_heading fontHeading mt-3">What is therapy? <br /> &nbsp; </h4>
                            </div>
                         </div>
                         <div class="bottomBtn">

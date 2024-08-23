@@ -1,4 +1,4 @@
-<header class="header stricky">
+<header class=" stricky">
 	<div class="containerFull">
 		<div class="inlineHeader">
 			<div class="leftLogo">
@@ -27,9 +27,9 @@
 						<li><a href="services.php">Services</a></li>
 						<li><a href="specialities.php">Specialities</a></li>
 						<li><a href="#">Resources</a></li>
-						<li><a href="#">Contact Us</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
-					<a href="#" class="headerBtn ms-lg-4">Book an Appointment</a>
+					<a href="appointment.php" class="headerBtn ms-lg-4">Book an Appointment</a>
 				</div>
 			</div>
 		</div>
