@@ -92,18 +92,165 @@
         </section>
 
 
-<!-- 
-        <section>
+
+        <section class="bgGrey">
             <div class="containerFull">
-                <div class="galleryContainer">
-                    <div class="GalleryBox">
+                <h3 class="sub_heading text-center fontHeading fontWeight700">Our Gallery</h3>
+                <div class="galleryContainer px-5 mt-5">
+
+
+                    <div class="galleryBox">
+
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                    </div>
+                    <div class="galleryBox">
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                    </div>
+                    <div class="galleryBox">
+
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="galleryItem">
+                            <picture>
+                                <source srcset="images/services/individual-therapy.webp" type="image/webp" />
+                                <img src="images/services/individual-therapy.jpg" alt="">
+                            </picture>
+                        </div>
 
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
 
 
+        <section>
+            <div class="containerFull">
+
+
+            <h3 class="sub_heading text-center fontHeading fontWeight700">Client stories</h3>
+
+
+                <div class="clients-container mt-5">
+
+                    <div class="row">
+                        <div class="col-lg-8 offset-2">
+
+
+                            <div class="clientsSlider shadow">
+                                <div class="clientItem ">
+                                    <div class="clientBox bgGrey">
+                                        <div class="clientImg">
+                                            <picture>
+                                                <source srcset="images/dummy.webp" type="image/webp" />
+                                                <img src="images/dummy.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="clientContent">
+                                            <h4 class="small_heading">Lorem Ipsum</h4>
+                                            <p class=" mt-2 fontWeight700">Lorem ipsum dolor sit</p>
+
+                                            <p class="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sapiente minima eveniet ipsa? Maiores porro magnam, modi asperiores delectus itaque sit magni quae incidunt harum rerum officiis alias vero dolore voluptatibus laboriosam illum soluta, nostrum, natus consequatur! Quis, voluptas nulla.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clientItem ">
+                                    <div class="clientBox bgGrey">
+                                        <div class="clientImg">
+                                            <picture>
+                                                <source srcset="images/dummy.webp" type="image/webp" />
+                                                <img src="images/dummy.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="clientContent">
+                                            <h4 class="small_heading">Lorem Ipsum</h4>
+                                            <p class=" mt-2 fontWeight700">Lorem ipsum dolor sit</p>
+
+                                            <p class="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sapiente minima eveniet ipsa? Maiores porro magnam, modi asperiores delectus itaque sit magni quae incidunt harum rerum officiis alias vero dolore voluptatibus laboriosam illum soluta, nostrum, natus consequatur! Quis, voluptas nulla.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clientItem ">
+                                    <div class="clientBox bgGrey">
+                                        <div class="clientImg">
+                                            <picture>
+                                                <source srcset="images/dummy.webp" type="image/webp" />
+                                                <img src="images/dummy.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="clientContent">
+                                            <h4 class="small_heading">Lorem Ipsum</h4>
+                                            <p class=" mt-2 fontWeight700">Lorem ipsum dolor sit</p>
+
+                                            <p class="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sapiente minima eveniet ipsa? Maiores porro magnam, modi asperiores delectus itaque sit magni quae incidunt harum rerum officiis alias vero dolore voluptatibus laboriosam illum soluta, nostrum, natus consequatur! Quis, voluptas nulla.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clientItem ">
+                                    <div class="clientBox bgGrey">
+                                        <div class="clientImg">
+                                            <picture>
+                                                <source srcset="images/dummy.webp" type="image/webp" />
+                                                <img src="images/dummy.jpg" alt="">
+                                            </picture>
+                                        </div>
+                                        <div class="clientContent">
+                                            <h4 class="small_heading">Lorem Ipsum</h4>
+                                            <p class=" mt-2 fontWeight700">Lorem ipsum dolor sit</p>
+
+                                            <p class="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sapiente minima eveniet ipsa? Maiores porro magnam, modi asperiores delectus itaque sit magni quae incidunt harum rerum officiis alias vero dolore voluptatibus laboriosam illum soluta, nostrum, natus consequatur! Quis, voluptas nulla.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <?php include 'include/footer.php';
         ?>

@@ -1,4 +1,4 @@
-<header class=" stricky">
+<header class="header stricky">
 	<div class="containerFull">
 		<div class="inlineHeader">
 			<div class="leftLogo">
@@ -22,18 +22,56 @@
 				</div>
 				<div class="mainMenu">
 					<ul class="d-flex justify-content-end">
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="about.php">About Us</a></li>
-						<li><a href="services.php">Services</a></li>
-						<li><a href="specialities.php">Specialities</a></li>
-						<li><a href="#">Resources</a></li>
-						<li><a href="contact.php">Contact Us</a></li>
+						<li class="<?php if ($page == 'home') {
+									echo 'active';
+								} ?>"><a href="index.php">Home</a></li>
+						<li class="<?php if ($page == 'about') {
+									echo 'active';
+								} ?>"><a href="about.php">About Us</a></li>
+						<li class="<?php if ($page == 'services') {
+									echo 'active';
+								} ?>"><a href="services.php">Services</a></li>
+						<li class="<?php if ($page == 'specialities') {
+									echo 'active';
+								} ?>"><a href="specialities.php">Specialities</a></li>
+						<li class="<?php if ($page == 'about') {
+									echo 'active';
+								} ?>"><a href="#">Resources</a>
+								
+							
+								
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</li>
+						<li class="<?php if ($page == 'contact') {
+									echo 'active';
+								} ?>"><a href="contact.php">Contact Us</a></li>
 					</ul>
 					<a href="appointment.php" class="headerBtn ms-lg-4">Book an Appointment</a>
 				</div>
 			</div>
 		</div>
 	</div>
+	
+
+
+
+
+
+
+
+
+
+
+
+
 	<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
 		<div class="offcanvas-header">
 			<h5 id="offcanvasRightLabel">&nbsp;</h5>
@@ -54,3 +92,6 @@
 		</div>
 	</div>
 </header>
+
+
+
