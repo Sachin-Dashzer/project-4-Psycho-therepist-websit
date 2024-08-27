@@ -7,8 +7,8 @@
                         <div class="footerLogo">
                             <a href="index.php">
                                 <picture>
-                                    <source srcset="images/logo.webp" type="image/webp" />
-                                    <img src="images/logo.png" />
+                                    <source srcset="images/banner-logo.webp" type="image/webp" />
+                                    <img src="images/banner-logo.png" />
                                 </picture>
                             </a>
                         </div>

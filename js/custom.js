@@ -308,7 +308,7 @@ $(".serviceSlider").slick({
   speed: 500,
   autoplay: true,
   autoplaySpeed: 2000,
-  arrows: false,
+  arrows: true,
   prevArrow:
     "<button type='button' class='slick-prev pull-left'><i class='bi bi-chevron-left'></i></button>",
   nextArrow:

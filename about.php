@@ -60,7 +60,7 @@
                                 <li><strong>Diploma in Foundations of Yoga - </strong>Mumbai University</li>
                                 <li><strong>Clinical Psychology Internship - </strong>Cognizavest</li>
                                 <li><strong>Psychological First Aid - </strong>Johns Hopkins University, Coursera</li>
-                                <li><strong>Child Protection (Course of safeguarding of Children) - </strong>NSPCC< CPD< UK</li>
+                                <li><strong>Child Protection (Course of safeguarding of Children) - </strong>NSPCC, CPD, UK</li>
                                 <li><strong>First Aid Training - </strong>University of Bradford</li>
                             </ul>
 
@@ -167,7 +167,7 @@
         </section>
 
 
-        <section>
+        <!-- <section>
             <div class="containerFull">
 
 
@@ -250,7 +250,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <?php include 'include/footer.php';
         ?>

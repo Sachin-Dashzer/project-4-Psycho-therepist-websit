@@ -109,12 +109,17 @@ section {
   font-weight: 900;
 }
 .leftLogo {
+  display: none;
   width: 180px;
 }
 .leftLogo img {
+
   max-width: 100%;
   filter: brightness(0) invert(1);
   -webkit-filter: brightness(0) invert(1);
+}
+.stricky-fixed .leftLogo{
+  display: block;
 }
 .stricky-fixed .leftLogo img {
   filter: none;
@@ -165,7 +170,8 @@ section {
   margin-top: 0;
 }
 .header.stricky-fixed .leftLogo {
-  width: 90px;
+  width: 100px;
+  margin-right: 15px;
 }
 .header.stricky-fixed .mainMenu ul li a {
   color: #333;
@@ -1065,8 +1071,8 @@ section {
 }
 .footerLogo img {
   max-width: 100%;
-  filter: brightness(0) invert(1);
-  -webkit-filter: brightness(0) invert(1);
+  /* filter: brightness(0) invert(1);
+  -webkit-filter: brightness(0) invert(1); */
 }
 .footeright {
   width: calc(100% - 280px);
@@ -1132,8 +1138,8 @@ section {
 }
 .bannerIcon img {
   max-width: 100%;
-  animation: shadow 2s infinite ease-in-out;
-  -webkit-animation: shadow 2s infinite ease-in-out;
+  /* animation: shadow 2s infinite ease-in-out;
+  -webkit-animation: shadow 2s infinite ease-in-out; */
 }
 @keyframes shadow {
   0% {
@@ -1665,3 +1671,58 @@ section {
 .clientsSlider .slick-next:before {
   display: none;
 }
+
+
+/* ///////// new css /////////////  */
+
+.rightMenu{
+  width: 100%;
+}
+
+.mainMenu{
+  width: 100%;
+  justify-content: space-between;
+}
+
+.overcomeItem .title {
+  font-size: 29px;
+  font-weight: 700;
+}
+
+
+.serviceSlider .slick-next, .serviceSlider .slick-prev{
+
+  background-color: white;
+  z-index: 3;
+  width: 50px;
+  height: 50px;
+  top: 30%;
+  border-radius: 100%;
+
+}
+.serviceSlider .slick-next:hover, .serviceSlider .slick-prev:hover{
+  background-color: var(--primary-color);
+}
+.serviceSlider .slick-next:hover::after, .serviceSlider .slick-prev:hover::after{
+  color: var(--secondary-color);
+
+}
+
+.serviceSlider .slick-next::after, .serviceSlider .slick-prev::after{
+  content: '>';
+  position: absolute;
+  color: var(--primary-color);
+  font-size: 38px;
+  z-index: 1;
+  font-weight: bolder;
+  left: 30%;
+  bottom: 50%;
+}
+.serviceSlider .slick-prev::after{
+  content: "<";
+}
+.serviceSlider .slick-next::before, .serviceSlider .slick-prev::before{
+  display: none;
+}
+
+

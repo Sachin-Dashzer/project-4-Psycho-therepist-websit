@@ -34,21 +34,9 @@
 						<li class="<?php if ($page == 'specialities') {
 									echo 'active';
 								} ?>"><a href="specialities.php">Specialities</a></li>
-						<li class="<?php if ($page == 'about') {
+						<li class="<?php if ($page == '') {
 									echo 'active';
 								} ?>"><a href="#">Resources</a>
-								
-							
-								
-							
-							
-							
-							
-							
-							
-							
-							
-							
 							</li>
 						<li class="<?php if ($page == 'contact') {
 									echo 'active';
@@ -56,6 +44,9 @@
 					</ul>
 					<a href="appointment.php" class="headerBtn ms-lg-4">Book an Appointment</a>
 				</div>
+			</div>
+			<div>
+
 			</div>
 		</div>
 	</div>
