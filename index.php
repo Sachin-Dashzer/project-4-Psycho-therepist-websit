@@ -26,8 +26,8 @@
                   <div class="text-center">
                      <div class="bannerIcon">
                         <picture>
-                           <source srcset="images/slider/banner-bg.webp" type="image/webp" />
-                           <img src="images/slider/banner-bg.png" alt="">
+                           <source srcset="images/banner-logo.webp" type="image/webp" />
+                           <img src="images/banner-logo.png" alt="">
                         </picture>
                      </div>
                      <div class="d-flex justify-content-center align-items-center mt-4">
