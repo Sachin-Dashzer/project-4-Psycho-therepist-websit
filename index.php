@@ -100,7 +100,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Individual <br/> Therapy</h4>
                      <p>Take the deep dive into exploring yourself and learn to navigate life stressors and challenges like ADHD, trauma, Autism, Depression, Anxiety etc...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
 
                   </div>
                </div>
@@ -114,7 +114,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Couples <br/> Counselling</h4>
                      <p>Reignite the spark and build conflict resolution skills to steer your relationship towards a better tomorrow. Give your relationship another chance...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -127,7 +127,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Adolescent or <br/> teenage therapy</h4>
                      <p>Neither quite an adult, nor quite a kid. Adolescents or teens and tweens come with a number of adjustment issues including but not limited...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -140,7 +140,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Online <br/> Therapy</h4>
                      <p>If travelling to the clinic is a challenge for you due to geographical or time restraints, this option is for you. Remote therapy sessions from...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -153,7 +153,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Family <br/> Therapy</h4>
                      <p>From a therapist that comes from the South Asian background, your unique challenges that come from being in the collectivistic culture we live... </p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -166,7 +166,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Crisis intervention or mental health first aid</h4>
                      <p>In the time of a mental health crisis-be it a panic attack, suicidal thoughts, feeling severe emotional or mental distress, hearing voices...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -179,7 +179,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">LGBTQ++ <br/> therapy</h4>
                      <p>Being queer comes with it’s unique set of experiences and challenges- be it coming out, abuse, bullying, being unsure of your identity...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -192,7 +192,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Stress <br/> management</h4>
                      <p>In the high paced and advanced age of technology, stress is uquibitous. When it is chronic, and severe, it can cause not just mental health...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
                <div class="serviceItem">
@@ -205,7 +205,7 @@
                      </div>
                      <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Corporate counselling and workshops</h4>
                      <p>Each workplace has it’s own set of challenges and when they get out of hand is when it starts affecting work and productivity of an individual...</p>
-                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                     <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
                </div>
             </div>
