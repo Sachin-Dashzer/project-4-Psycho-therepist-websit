@@ -25,9 +25,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 ps-lg-5">
+            <div class="col-lg-3 col-6 ps-lg-5">
                 <div class="footerColumn">
-                    <h4 class="small_heading fontHeading text-white">Services</h4>
+                    <h4 class="small_heading fontHeading text-white mt-4 mt-md-0">Services</h4>
                     <ul>
                         <li><a href="#">Individual Therapy</a></li>
                         <li><a href="#">Couples Therapy</a></li>
@@ -37,9 +37,9 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-6">
                 <div class="footerColumn">
-                    <h4 class="small_heading fontHeading text-white">Specialities</h4>
+                    <h4 class="small_heading fontHeading text-white mt-4 mt-md-0">Specialities</h4>
                     <ul>
                         <li><a href="#">Anxiety</a></li>
                         <li><a href="#">Depression</a></li>

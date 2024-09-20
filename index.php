@@ -21,7 +21,7 @@
       <?php include 'include/header.php'; ?>
       <section class="heroSection">
          <div class="containerFull h-100">
-            <div class="row h-100 align-items-center mt-lg-5">
+            <div class="row h-100 align-items-center mt-lg-5 new-banner-content">
                <div class="col-lg-8 offset-lg-2">
                   <div class="text-center">
                      <div class="bannerIcon">
@@ -30,7 +30,7 @@
                            <img src="images/banner-logo.png" alt="">
                         </picture>
                      </div>
-                     <div class="d-flex justify-content-center align-items-center mt-4">
+                     <div class="d-flex justify-content-center align-items-center mt-md-4 mt-2">
                         <a href="#" class="headerBtn">Book your Appointment</a>
                      </div>
                   </div>
@@ -45,8 +45,8 @@
       </section>
       <section>
          <div class="containerFull">
-            <div class="row">
-               <div class="col-lg-4">
+            <div class="row newrow">
+               <div class="col-lg-4 mt-4 mt-md-0">
                   <div class="leftBio">
                      <picture>
                         <source srcset="images/logo.webp" type="image/webp" />
@@ -57,8 +57,8 @@
                <div class="col-lg-7 offset-lg-1">
                   <div class="rightAbout">
                      <h4 class="title text_primary fontHeading">Hey there! Welcome to </h4>
-                     <h3 class="heading mt-3 fontHeading">Beyond the Box with Bhakti,</h3>
-                     <h3 class="small_heading mt-3 fontHeading">Where we empower your growth through compassionate care. </h3>
+                     <h3 class="heading mt-md-3 mt-2 fontHeading">Beyond the Box with Bhakti,</h3>
+                     <h3 class="small_heading mt-md-3 mt-2 fontHeading">Where we empower your growth through compassionate care. </h3>
                      <div class="inlineBio">
                         <div class="rightBio">
                            <p>We believe in going beyond the box when it comes to your mental health. Here at beyond the box with bhakti, we believe in creating a safe, non judgemental space for you to realise your potential. Embark on a journey to transform yourself, from overcoming and navigating challenges like depression, anxiety, adhd, trauma, etc and achieve lasting growth. With a holistic approach to mental health, we aim to provide therapy that meets you where you are.
@@ -70,7 +70,7 @@
                            <p class="small_heading fontHeading">I cannot teach anybody anything. I can only make them think.</p>
                         </div> -->
                         <div class="col-lg-5">
-                           <a href="#" class="btnTheme w-100 text-center">Know More</a>
+                           <a href="#" class="btnTheme w-100 text-center mt-2 mt-md-0">Know More</a>
                         </div>
                      </div>
                   </div>
@@ -84,12 +84,12 @@
             <div class="row col-lg-10 offset-lg-1">
 
 
-            <h3 class="heading text-center fontHeading text_primary mt-3">Featured Services</h3>
-            <h5 class="text new_subHeading mt-3 text-center">Together we Thrive: Featured services at BTBWB </br>
-               Here at Beyond the Box with Bhakti, we offer a comprehensive range of evidence-based therapeutic services that help you, help yourself. Explore the various kinds of support we provide:
-            </h5>               
+               <h3 class="heading text-center fontHeading text_primary mt-md-3 mt-4">Featured Services</h3>
+               <h5 class="text new_subHeading mt-3 text-center">Together we Thrive: Featured services at BTBWB </br>
+                  Here at Beyond the Box with Bhakti, we offer a comprehensive range of evidence-based therapeutic services that help you, help yourself. Explore the various kinds of support we provide:
+               </h5>
             </div>
-            <div class="serviceSlider mt-4">
+            <div class="serviceSlider mt-md-4 mt-2">
                <div class="serviceItem">
                   <div class="overcomeItem">
                      <div class="iconOvercome">
@@ -98,7 +98,7 @@
                            <img src="images/icons/therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Individual <br/> Therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Individual <br /> Therapy</h4>
                      <p>Take the deep dive into exploring yourself and learn to navigate life stressors and challenges like ADHD, trauma, Autism, Depression, Anxiety etc...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
 
@@ -112,7 +112,7 @@
                            <img src="images/icons/couple-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Couples <br/> Counselling</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Couples <br /> Counselling</h4>
                      <p>Reignite the spark and build conflict resolution skills to steer your relationship towards a better tomorrow. Give your relationship another chance...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -125,7 +125,7 @@
                            <img src="images/icons/group-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Adolescent or <br/> teenage therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Adolescent or <br /> teenage therapy</h4>
                      <p>Neither quite an adult, nor quite a kid. Adolescents or teens and tweens come with a number of adjustment issues including but not limited...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -138,7 +138,7 @@
                            <img src="images/icons/online-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Online <br/> Therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Online <br /> Therapy</h4>
                      <p>If travelling to the clinic is a challenge for you due to geographical or time restraints, this option is for you. Remote therapy sessions from...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -151,7 +151,7 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Family <br/> Therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Family <br /> Therapy</h4>
                      <p>From a therapist that comes from the South Asian background, your unique challenges that come from being in the collectivistic culture we live... </p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -164,7 +164,7 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Crisis intervention or mental health first aid</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Crisis intervention or mental health first aid</h4>
                      <p>In the time of a mental health crisis-be it a panic attack, suicidal thoughts, feeling severe emotional or mental distress, hearing voices...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -177,7 +177,7 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">LGBTQ++ <br/> therapy</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">LGBTQ++ <br /> therapy</h4>
                      <p>Being queer comes with it’s unique set of experiences and challenges- be it coming out, abuse, bullying, being unsure of your identity...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -190,7 +190,7 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Stress <br/> management</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Stress <br /> management</h4>
                      <p>In the high paced and advanced age of technology, stress is uquibitous. When it is chronic, and severe, it can cause not just mental health...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -203,7 +203,7 @@
                            <img src="images/icons/family-therapy.png" />
                         </picture>
                      </div>
-                     <h4 class="title fontHeading text_primary text-center mt-4 mb-3">Corporate counselling and workshops</h4>
+                     <h4 class="title fontHeading text_primary text-center mt-4 mb-md-3 mb-2">Corporate counselling and workshops</h4>
                      <p>Each workplace has it’s own set of challenges and when they get out of hand is when it starts affecting work and productivity of an individual...</p>
                      <a href="#" class="text-center text mt-2 d-inline-block">Read More &nbsp;<span><i class="fa fa-arrow-right"></i></span></a>
                   </div>
@@ -214,8 +214,8 @@
       <section class="bg_primary">
          <div class="containerFull">
             <h3 class="heading text-center fontHeading text-white mt-3">Our Specialities</h3>
-            <div class="row mt-lg-5 justify-content-center">
-               <div class="col-lg-4 px-3">
+            <div class="row mt-lg-5 mt-4 justify-content-center">
+               <div class="col-lg-4 col-6 px-md-3">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -228,7 +228,8 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 px-3">
+
+               <div class="col-lg-4 col-6 px-md-3">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -241,7 +242,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 px-3">
+               <div class="col-lg-4 col-6 px-md-3">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -254,21 +255,23 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 px-3">
+
+
+               <div class="col-lg-4 col-6 px-md-3">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
-                           <source srcset="images/relationship-issue.webp" type="image/webp" />
-                           <img src="images/relationship-issue.png" />
+                           <source srcset="images/anxiety.webp" type="image/webp" />
+                           <img src="images/anxiety.jpg" />
                         </picture>
                      </div>
                      <div class="description">
-                        <h4 class="title text_primary fontHeading">Relationship Issues</h4>
+                        <h4 class="title text_primary fontHeading">Other Specialties</h4>
 
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 px-3">
+               <div class="col-lg-4 col-6 px-md-3">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
@@ -282,16 +285,17 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 px-3">
+
+               <div class="col-lg-4 col-6 px-md-3">
                   <div class="itemSpecial">
                      <div class="specialImg">
                         <picture>
-                           <source srcset="images/anxiety.webp" type="image/webp" />
-                           <img src="images/anxiety.jpg" />
+                           <source srcset="images/relationship-issue.webp" type="image/webp" />
+                           <img src="images/relationship-issue.png" />
                         </picture>
                      </div>
                      <div class="description">
-                        <h4 class="title text_primary fontHeading">Other Specialties</h4>
+                        <h4 class="title text_primary fontHeading">Relationship Issues</h4>
 
                      </div>
                   </div>
@@ -322,7 +326,7 @@
                      <div class="usertestimonial">
                         <i class="fa-solid fa-quote-left iconfirst"></i>
                         <i class="fa-solid fa-quote-right iconSecond"></i>
-                        <p class="mt-4">Therapy with Bhakti has been nothing short of life-changing. It was very easy to connect with her. The process made me realise that I was holding on to what I knew was not the right path. She has shown me keeping your mind open is what brings the change you desire.</p>
+                        <p class="mt-md-4 mt-3">Therapy with Bhakti has been nothing short of life-changing. It was very easy to connect with her. The process made me realise that I was holding on to what I knew was not the right path. She has shown me keeping your mind open is what brings the change you desire.</p>
                      </div>
                   </div>
                   <div class="testimonialBox">
@@ -337,7 +341,7 @@
                      <div class="usertestimonial">
                         <i class="fa-solid fa-quote-left iconfirst"></i>
                         <i class="fa-solid fa-quote-right iconSecond"></i>
-                        <p class="mt-4">I had the pleasure of taking healing therapy from Bhakti and my experience has been transformative. Through her guidance, I learned powerful techniques like reframing negative thoughts, which has helped me see challenges from a new perspective. She also introduced me to breathing exercises that have become an essential tool for managing stress and anxiety. Bhakti created a safe, supportive environment where I felt heard and understood. Her expertise and compassionate approach have made a significant positive impact on my life. Thank you so much!</p>
+                        <p class="mt-md-4 mt-3">I had the pleasure of taking healing therapy from Bhakti and my experience has been transformative. Through her guidance, I learned powerful techniques like reframing negative thoughts, which has helped me see challenges from a new perspective. She also introduced me to breathing exercises that have become an essential tool for managing stress and anxiety. Bhakti created a safe, supportive environment where I felt heard and understood. Her expertise and compassionate approach have made a significant positive impact on my life. Thank you so much!</p>
                      </div>
                   </div>
                   <div class="testimonialBox">
@@ -352,7 +356,7 @@
                      <div class="usertestimonial">
                         <i class="fa-solid fa-quote-left iconfirst"></i>
                         <i class="fa-solid fa-quote-right iconSecond"></i>
-                        <p class="mt-4">Bhakti is a skilled Psychologist who demonstrates passion and dedication to both personal and professional growth. Her ability to quickly grasp and conceptualize ideas, coupled with her persistent pursuit of mastery are her key strengths. </p>
+                        <p class="mt-md-4 mt-3">Bhakti is a skilled Psychologist who demonstrates passion and dedication to both personal and professional growth. Her ability to quickly grasp and conceptualize ideas, coupled with her persistent pursuit of mastery are her key strengths. </p>
                      </div>
                   </div>
                </div>
@@ -373,11 +377,11 @@
          <div class="containerFull">
             <div class="row align-items-center">
                <div class="col-lg-9">
-                  <h4 class="sub_heading text_primary fontHeading">Ready to make a change? </h4>
+                  <h4 class="sub_heading text_primary fontHeading ">Ready to make a change? </h4>
                   <h4 class="title text_primary fontHeading mt-3">Book your first session today and take the first step towards a more fulfilling life. Because your well being, is worth it. </h4>
                </div>
                <div class="col-lg-3">
-                  <a href="#" class="btnTheme w-100 text-center">Book your Slot Now</a>
+                  <a href="#" class="btnTheme w-100 text-center mt-3 mt-md-0">Book your Slot Now</a>
                </div>
             </div>
          </div>
@@ -504,7 +508,7 @@
                <div class="col-lg-5 offset-lg-1">
                   <div class="rightContact">
                      <p class="textLine text-white">Contact with us</p>
-                     <h3 class="heading text-white fontHeading text_primary mt-3">Book a Session </h3>
+                     <h3 class="heading text-white fontHeading text_primary mt-md-3 mt-4">Book a Session </h3>
                      <div class="mainForm">
                         <div class="row">
                            <div class="col-lg-6">
@@ -555,7 +559,7 @@
                            </div>
                            <div class="col-lg-12">
                               <div class="formItemRepeat">
-                                 <button class="btnWhite mt-3">Send Request</button>
+                                 <button class="btnWhite mt-md-3 mt-2">Send Request</button>
                               </div>
                            </div>
                         </div>
