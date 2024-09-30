@@ -10,7 +10,7 @@
 				</a>
 			</div>
 			<div class="rightMenu">
-				<div class="topHeader d-none d-md-block">
+				<div class="topHeader d-none d-lg-block">
 					<ul>
 						<li><a href="#"><i class="fa fa-envelope"></i> info@beyondthebox.com</a></li>
 						<li><a href="#"><i class="fa fa-phone"></i> +91-12345 67890</a></li>
@@ -21,7 +21,7 @@
 					</ul>
 				</div>
 				<div class="mainMenu">
-					<ul class="justify-content-end  d-none d-md-flex">
+					<ul class="justify-content-end  d-none d-lg-flex">
 						<li class="<?php if ($page == 'home') {
 										echo 'active';
 									} ?>"><a href="index.php">Home</a></li>
@@ -42,7 +42,7 @@
 										echo 'active';
 									} ?>"><a href="contact.php">Contact Us</a></li>
 					</ul>
-					<a href="appointment.php" class="headerBtn ms-lg-4 d-none d-md-flex">Book an Appointment</a>
+					<a href="appointment.php" class="headerBtn ms-lg-4 d-none d-lg-flex">Book an Appointment</a>
 
 
 

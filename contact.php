@@ -34,7 +34,7 @@
 
             <div class="containerFull">
 
-            <div class="row py-3 ">
+            <div class="row py-lg-3 ">
                 <div class="col-lg-10 offset-lg-1">
                     <div class="detail-container">
                         <div class="detail-box">

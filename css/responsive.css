@@ -86,8 +86,8 @@
         align-items: center;
         justify-content: space-between;
         width: 100%;
-        font-size: 19px;
-        padding: 10px;
+        font-size: 18px;
+        padding: 5px 10px;
         font-weight: 600;
     }
 
@@ -199,7 +199,13 @@
         font-size: 13px;
         padding: 12px 25px;
     }
-
+    .itemFaq {
+        border: 1px solid #00000044;
+        padding: 14px 10px;
+        border-radius: 10px;
+        background: #ffffff;
+        margin-bottom: 16px;
+    }
     .copyright p {
         font-size: 13px;
     }
@@ -250,6 +256,10 @@
 
     .rightProcess {
         width: calc(100% - 70px);
+    }
+
+    .header.stricky-fixed .leftLogo {
+        width: 120px;
     }
 
     .leftProces {
@@ -412,7 +422,8 @@
     .usertestimonial {
         padding: 2px 14px;
     }
-    .testimonialBox{
+
+    .testimonialBox {
         padding: 8px;
     }
 
@@ -423,7 +434,8 @@
     .mainForm {
         margin-top: 4px;
     }
-    .form-floating > label {
+
+    .form-floating>label {
         padding: 1rem 10px;
     }
 
@@ -437,19 +449,134 @@
         align-items: center;
         justify-content: center;
     }
+
     .footerColumn ul {
         margin-top: 9px;
     }
+
     .footerColumn ul li a {
         padding: 4px 0px;
-       
+
     }
 
+    .shortBanner {
+        height: 43vh;
+        padding-top: 0;
+    }
 
+    .shortBanner:before {
 
+        width: 269px;
+        height: 290px;
 
+    }
 
+    .aboutBox p {
+        line-height: unset;
+        font-size: 16px;
+    }
 
+    .aboutBox p strong {
+        font-size: 17px;
+    }
+
+    .newTable {
+        overflow: hidden;
+        overflow-x: visible;
+    }
+
+    .newTable table {
+        margin-bottom: 0;
+    }
+
+    .newTable table th {
+        font-size: 14px;
+    }
+
+    .newTable table td {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .newTable table td,
+    .newTable table th {
+        padding: 8px 12px;
+    }
+
+    .galleryBox {
+        display: block;
+        margin-top: 0;
+    }
+
+    .galleryBox .galleryItem {
+        margin-top: 15px;
+    }
+
+    .serviceContent,
+    .serviceImg {
+        width: 100%;
+    }
+
+    .serviceBox {
+        display: block;
+    }
+
+    .serviceImg img {
+        height: unset;
+    }
+
+    .serviceContent {
+        padding-left: 0;
+        padding-top: 20px;
+    }
+
+    .serviceContent p {
+        font-size: 15px;
+    }
+
+    .serviceBox:nth-child(2n) .serviceContent {
+        padding-right: 0px;
+        padding-left: 0;
+    }
+
+    .itemSpecial {
+
+        margin-bottom: 12px;
+    }
+
+    .detail-container .detail-box {
+        gap: 15px;
+    }
+
+    .detail-container .detail-content {
+        padding-top: 10px;
+    }
+
+    .detail-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .contact-container {
+        height: fit-content;
+        display: block;
+        /* grid-template-columns: 50% 50%; */
+    }
+
+    .formBox {
+        padding: 0 15px;
+    }
+
+    .contact-formBox {
+        padding: 35px 0;
+        border-radius: 5px;
+    }
+
+    .mapBox {
+        height: 308px;
+        margin-top: 30px;
+    }
 
 
 
@@ -464,7 +591,340 @@
 
 
 
-@media (min-width: 768px) and (max-width: 990px) {}
+@media (min-width: 768px) and (max-width: 990px) {
+
+    p {
+        font-size: 15px;
+    }
+
+    section {
+        padding: 40px 0 40px;
+    }
+
+    .containerFull {
+        padding: 0 15px;
+    }
+
+    .large_heading {
+        font-size: 33px;
+        line-height: 50px;
+    }
+
+    .heading {
+        font-size: 28px;
+    }
+
+    .sub_heading {
+        font-size: 23px;
+    }
+
+    .small_heading {
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 17px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+
+    .btnTheme,
+    .btnSecondary {
+        font-size: 14px;
+        padding: 11px 20px;
+    }
+
+    .leftLogo {
+        width: 160px;
+        margin-bottom: 6px;
+    }
+
+    .stricky-fixed .leftLogo {
+        width: 122px;
+    }
+
+    .inlineHeader {
+        padding: 0 20px;
+    }
+
+    .sidelogo img {
+        width: 120px;
+    }
+
+    .btnMenu {
+        background: none;
+        border: none;
+        color: #ffffff;
+        font-size: 23px;
+        margin-right: 10px;
+    }
+
+    .offcanvas-end {
+        width: 320px;
+    }
+
+    .offcanvas-body {
+        overflow-x: hidden;
+        padding: 0rem 1rem;
+    }
+
+    .innerMenu ul li ul {
+        display: none;
+    }
+
+    .header.stricky-fixed .btnMenu {
+        color: #000;
+    }
+
+    .header {
+        padding: 0;
+    }
+
+    .mainMenu {
+        justify-content: flex-end;
+    }
+
+    .innerMenu ul li a {
+        color: #222;
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        font-size: 19px;
+        padding: 5px 10px;
+        font-weight: 600;
+    }
+
+    .innerMenu ul li a i {
+        font-size: 12px;
+    }
+
+    .innerMenu ul li ul li a {
+        font-size: 13px;
+    }
+
+    .innerMenu ul li a:hover {
+        color: var(--primary-color);
+    }
+
+
+    .followUs {
+        margin-top: 30px;
+        border-top: 1px solid #e0e0e0;
+        padding-top: 30px;
+        padding-left: 15px;
+    }
+
+    .followUs ul {
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .followUs ul li a {
+        display: inline-block;
+        padding: 10px;
+        font-size: 18px;
+        color: #333;
+    }
+
+    .borderCircle {
+        position: absolute;
+        left: -13px;
+        top: -28px;
+        width: 520px;
+        height: 520px;
+    }
+
+    .heroSection {
+        height: 80vh;
+    }
+
+    .circleFull {
+        position: absolute;
+        width: 470px;
+        height: 470px;
+        background: #3c2f98;
+        left: -267px;
+        bottom: 27px;
+
+    }
+
+    .heroSection:before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 295px;
+        height: 273px;
+
+    }
+
+    .new_subHeading {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .overcomeItem .title {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .serviceItem p {
+        font-size: 14px;
+    }
+
+    .serviceItem {
+        padding: 14px;
+    }
+
+    .serviceSlider .slick-next,
+    .serviceSlider .slick-prev {
+        background-color: white;
+        z-index: 3;
+        width: 42px;
+        height: 42px;
+        top: 31%;
+        border-radius: 100%;
+    }
+
+    .slick-next {
+        right: -10px !important;
+    }
+
+    .slick-prev {
+        left: -10px !important;
+    }
+
+    .serviceSlider .slick-next::after,
+    .serviceSlider .slick-prev::after {
+        font-size: 29px;
+    }
+
+    .footerColumn ul li a {
+        padding: 4px 0px;
+    }
+
+    .footerColumn ul {
+        margin-top: 7px;
+    }
+
+    .copyright {
+        margin-top: 14px;
+        padding-top: 12px;
+
+    }
+
+    .copyright p {
+        font-size: 14px;
+    }
+
+    .aboutBox p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .aboutBox p strong {
+        font-size: 15px;
+    }
+
+    .shortBanner {
+        height: 43vh;
+        padding-top: 0;
+    }
+    .shortBanner:before {
+     
+        width: 270px;
+        height: 210px;
+       
+    }
+
+    th,
+    td {
+
+        padding: 9px 12px;
+        font-size: 15px;
+    }
+th{
+    font-size: 17px;
+}
+table{
+    margin-bottom: 0;
+}
+.new-detail-box p{
+    font-size: 13px;
+}
+.galleryItem {
+    height: unset;
+}
+.serviceImg img {
+   
+    height: 400px;
+  
+}
+.serviceImg {
+    width: 40%;
+}
+.serviceContent {
+    width: 60%;
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px 0px;
+    padding-left: 10px;
+}
+
+.serviceContent p {
+    font-size: 14px;
+}
+.serviceBox:nth-child(2n) .serviceContent {
+    padding-right: 10px;
+    padding-left: 0;
+}
+
+.detail-icon {
+  
+    width: 43px;
+    height: 43px;
+    
+    font-size: 16px;
+}
+.detail-box {
+    
+    gap: 6px;
+}
+.detail-content p{
+    font-size: 14px;
+}
+
+.itemFaq {
+    border: 1px solid #00000044;
+    padding: 12px 20px;
+
+    margin-bottom: 15px;
+}
+
+.faqHeader h4 {
+    font-size: 17px;
+    font-weight: 700;
+}
+.formBox {
+    width: 100%;
+    padding: 0 15px;
+}
+.contact-container {
+    height: unset;
+   
+}
+.contact-formBox {
+padding: 30px 0;
+}
+
+
+
+}
 
 @media (min-width: 1024px) {}
 

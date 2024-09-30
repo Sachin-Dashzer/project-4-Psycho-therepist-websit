@@ -1586,15 +1586,15 @@ section {
 
 .galleryBox {
   display: grid;
-  gap: 20px;
+  gap: 2%;
   margin-top: 20px;
-  grid-template-columns: 30% 30% 40%;
+  grid-template-columns: 29% 29% 40%;
 }
 .galleryBox:first-child {
-  grid-template-columns: 40% 30% 30%;
+  grid-template-columns: 40% 29% 29%;
 }
 .galleryBox:last-child {
-  grid-template-columns: 40% 30% 30%;
+  grid-template-columns: 40% 29% 29%;
 }
 
 .galleryItem {

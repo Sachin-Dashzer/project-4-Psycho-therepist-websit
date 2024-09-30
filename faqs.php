@@ -78,8 +78,8 @@
             <div class="container">
 
 
-                <h3 class="sub_heading fontWeight800 fontHeading text-center mb-md-5 mb-4">Frequently Asked Questions</h3>
-                <div class="row px-5">
+                <h3 class="sub_heading fontWeight800 fontHeading text-center mb-md-3 mb-4">Frequently Asked Questions</h3>
+                <div class="row px-md-5">
 
                     <div class="faqBox">
                         <div class="itemFaq">

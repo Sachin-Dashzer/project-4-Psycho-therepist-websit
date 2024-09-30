@@ -35,7 +35,7 @@
         <section>
             <div class="containerFull">
                 <div class="row px-lg-3">
-                    <div class="col-lg-5">
+                    <div class="col-md-5">
                         <div class="aboutImg imgSticky">
                             <picture>
                                 <source srcset="images/dummy.webp" type="image/webp" />
@@ -43,8 +43,8 @@
                             </picture>
                         </div>
                     </div>
-                    <div class="col-lg-7">
-                        <div class="aboutBox pt-4 ps-4">
+                    <div class="col-md-7">
+                        <div class="aboutBox pt-lg-4 pt-3 ps-lg-4">
 
                             <h3 class="sub_heading fontHeading fontWeight700">About Bhakti</h3>
 
@@ -72,22 +72,10 @@
         <section class="pt-0">
             <div class="containerFull">
 
-                
-                <!-- <ul class="mt-3">
-                    <li><strong>Msc Psychology - </strong>University of Bradford, UK</li>
-                    <li><strong>BA Psychology - </strong>Mithibai Colllege of Arts, Mumbai, Mumbai University</li>
-                    <li><strong>CBT Certificate course - </strong>PsyQuench</li>
-                    <li><strong>REBT Certificate course - </strong>PsyQuench</li>
-                    <li><strong>Therapy Master Course - </strong>Counsel India</li>
-                    <li><strong>Diploma in Foundations of Yoga - </strong>Mumbai University</li>
-                    <li><strong>Clinical Psychology Internship - </strong>Cognizavest</li>
-                    <li><strong>Psychological First Aid - </strong>Johns Hopkins University, Coursera</li>
-                    <li><strong>Child Protection (Course of safeguarding of Children) - </strong>NSPCC, CPD, UK</li>
-                    <li><strong>First Aid Training - </strong>University of Bradford</li>
-                </ul> -->
+          
                 
                 <div class="row">
-                    <div class="col-lg-11 ps-4">
+                    <div class="col-lg-11 ps-lg-4 newTable">
                         <h4 class="small_heading">Qualifications and certifications</h4>
 
                         <table class="mt-4">
@@ -156,14 +144,14 @@
         <div>
             <div class="containerFull">
                 <div class="row bgGrey">
-                    <div class="col-lg-7 p-5 ">
+                    <div class="col-lg-7 col-md-8 new-detail-box p-lg-5 py-4">
                         <h4 class="small_heading">Mission and vision</h4>
                         <p class="mt-2 text">More often than not, I am asked why I came back from the UK after my Masters instead of settling there. And my answer has always been the same. I have noticed that the therapy and psychological awareness are the need of the hour for our country. The West already has established mental healthcare, and the common man there knows the importance of mental health whereas here, people are only now waking up to the importance of therapy and mental health. I feel like I have can offer a unique approach to the healing of my clients, integrating the good things from the West- like some of their therapies, views on boundaries and standing out, and the best from our own roots- like yoga, healing with nature and a lot of times, spirituality; brining a unique harmony of both to the table. I want to be able to give back to the society that gave me so much to begin with. </p>
 
                         <p class="mt-2 text">My vision for Beyond the Box is that it will function as a well oiled machine of a core team that will support people and bring mental awareness and work on their well being, eventually growing into a community of people who can support others in turn. </p>
 
                     </div>
-                    <div class="col-lg-5 aboutnew-img">
+                    <div class="col-lg-5 col-md-4 aboutnew-img">
                         <picture>
                             <source srcset="images/mission-and-vision.webp" type="image/webp" />
                             <img src="images/mission-and-vision.jpg" />
@@ -173,13 +161,13 @@
 
 
                 <div class="row mt-5 bgGrey">
-                    <div class="col-lg-5 aboutnew-img">
+                    <div class="col-lg-5 col-md-4 aboutnew-img order-2 order-md-1">
                         <picture>
                             <source srcset="images/philosophy.webp" type="image/webp" />
                             <img src="images/philosophy.jpg" />
                         </picture>
                     </div>
-                    <div class="col-lg-7 p-5">
+                    <div class="col-lg-7 col-md-8 new-detail-box p-lg-5 py-4 order-1 order-md-2">
                         <h4 class="small_heading">Philosophy and approach</h4>
                         <p class="mt-3 text"><strong>My Philosophy, both in life as well as in my practise as a therapist is : </strong>Be humane. If even one person is able to smile because of me, if I can make a difference in just one life, my whole endeavour will be worth it. I want to help people help themselves. I aspire to be like my teachers, to make sure my psychology, my empathy, walks with me. I imbibe in life what I imbibe in therapy- to always keep the door open, to never stop learning. I learn from my clients, oft times more than they learn from me.
                             My approach is open, flexible and eclectic- using this technique from here and that technique from there to make a tailor made therapeutic plan that best benefits each client, working towards their therapy goals in collaboration. Know that the techniques and therapies are well researched, scientific in nature. Your mental health is our priority.
@@ -193,7 +181,7 @@
         <section>
             <div class="containerFull">
                 <h3 class="sub_heading text-center fontHeading fontWeight700">Our Gallery</h3>
-                <div class="galleryContainer px-5 mt-5">
+                <div class="galleryContainer px-lg-5 mt-lg-5 mt-4">
 
 
                     <div class="galleryBox">
@@ -217,7 +205,7 @@
                             </picture>
                         </div>
                     </div>
-                    <div class="galleryBox">
+                    <div class="galleryBox d-none d-md-grid">
                         <div class="galleryItem">
                             <picture>
                                 <source srcset="images/services/individual-therapy.webp" type="image/webp" />
